@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "맑은여름"
 title_separator          : "&#124;"
 subtitle                 : "Gemological Neural Network " # site tagline that appears below site title in masthead
-name                     : "황철하"
+name                     : "Edward.Hwang"
 description              : "보석 그리고 AI/VR/ML의 융합을 꿈꾸는 블로그."
 url                      : "https://gnnlab.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
